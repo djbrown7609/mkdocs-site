@@ -1,0 +1,48 @@
+site_name: Debbie Brown
+site_description: Senior Technical Writer • Developer-Focused Documentation • Certified Scrum Master
+theme:
+  name: material
+  palette: 
+    - scheme: 
+      default primary: purple 
+      accent: deep purple 
+      toggle: 
+        icon: material/weather-night 
+        name: Switch to dark mode 
+    - scheme: slate 
+      primary: indigo 
+      accent: deep purple 
+      toggle: 
+        icon: material/weather-sunny 
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+    - content.action.edit
+
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Design Influencer: design-influencer.md
+  - Customer  Advocate: customer-advocate.md
+  - Samples:
+      - API Reference Guide: projects/api-guide.md
+      - Developer Guide: projects/developer-guide.md
+      - Responsible AI solutions: projects/ai-solutions.md  
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.tasklist
+
+
