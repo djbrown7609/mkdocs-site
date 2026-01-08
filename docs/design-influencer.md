@@ -1,6 +1,6 @@
 ## Early Design Engagement and Collaboration
 
-Throughout my career, I have workedupstream with product, engineering, and UX teams to influence design decisions before documentation plans were finalized. By partnering early in the development lifecycle, I act as a customer experience advocate, by identifying friction points, shaping workflows, and helping teams avoid downstream rework.
+Throughout my career, I have worked with product, engineering, and UX teams to influence design decisions before documentation plans were finalized. By partnering early in the development lifecycle, I act as a customer experience advocate, by identifying friction points, shaping workflows, and helping teams avoid downstream rework.
 
 My background as a developer and tester allows me to recognize design and usability issues early, often before they surface as defects or documentation gaps. I approach documentation as product feedback rather than a downstream task, using it to improve clarity, reduce operational overhead, and create more intuitive customer experiences.
 

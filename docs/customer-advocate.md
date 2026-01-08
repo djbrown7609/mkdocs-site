@@ -20,6 +20,5 @@ By coming prepared and asking specific, targeted questions, I enable these teams
 
 My third customer group is my fellow technical writers. I support the team by mentoring new and experienced writers, sharing best practices, and helping others navigate tools, processes, and review workflows.
 
-I also create templates, guidelines, and training materials that promote consistency and reduce onboarding time. By documenting processes and establishing repeatable patterns, I help scale the team’s effectiveness while maintaining a high bar for qua
-
+I also create templates, guidelines, and training materials that promote consistency and reduce onboarding time. By documenting processes and establishing repeatable patterns, I help scale the team’s effectiveness while maintaining a high bar for quality.
 
