@@ -6,7 +6,7 @@ Customer advocacy is a core principle of my work as a technical writer. I view d
 
 External customers consistently want documentation that is clear, concise, and easy to find and understand. My goal is to reduce the time it takes for customers to get value from a product by presenting information in a straightforward, task-focused way.
 
-I achieve this by applying DITA principles and disciplined writing practices, including clear information architecture, consistent terminology, and reusable content structures. This approach helps ensure that documentation is scannable, logically organized, and easy to maintain over time.
+I achieve this by applying DITA principles and disciplined writing practices, including clear information architecture, consistent terminology, and reusable content structures. This approach ensures that documentation is scannable, logically organized, and easy to maintain over time.
 
 To continuously improve content quality, I actively engage with customer feedback channels, including support tickets, documentation feedback, and pull requests. These inputs help me identify gaps, clarify confusing areas, and add missing context so the documentation evolves alongside customer needs.
 
@@ -21,4 +21,3 @@ By coming prepared and asking specific, targeted questions, I enable these teams
 My third customer group is my fellow technical writers. I support the team by mentoring new and experienced writers, sharing best practices, and helping others navigate tools, processes, and review workflows.
 
 I also create templates, guidelines, and training materials that promote consistency and reduce onboarding time. By documenting processes and establishing repeatable patterns, I help scale the team’s effectiveness while maintaining a high bar for quality.
-
