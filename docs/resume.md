@@ -7,12 +7,10 @@
 ## Technical Expertise
 
 ### **Documentation Tools**
-Oxygen, AuthorIt, Confluence,Adobe Suite, GitHub, Git,  RoboDemo, RoboHelp, FrameMaker, Microsoft Visio, Microsoft Publisher, Microsoft Officce, SnagIt
+Oxygen, AuthorIt, Confluence, Adobe Suite, GitHub, Git,  RoboDemo, RoboHelp, FrameMaker, Microsoft Visio, Microsoft Publisher, Microsoft Office, SnagIt
 
 ### **Prompt Engineering**
-- Created two documentation automation solutions using **Amazon Q CLI**  
-- Automated generation of pages detailing the latest **Amazon ECS AMIs**  
-- Built a solution that creates task pages directly from **Figma mockups**
+Automated documentation using Amazon Q CLI   
 
 ### **Documentation Expertise**
 DITA, Content strategy, SEO optimization, Reusable templates and structured writing
@@ -39,13 +37,14 @@ Microsoft Access, SQL, Oracle, Amazon RDS
 ## Experience
 
 ### **Amazon Web Services — Senior Technical Writer**  
-*Seattle, Washington — November 2018 — Present*
+*Red Bank NJ — November 2018 — October 2025*
 
 - Document Amazon Elastic Container Service and AWS networking services  
 - Write architectural overviews, configuration guides (CLI and console), and jobs‑to‑be‑done workflows  
 - Reorganized and rewrote ECS documentation using **DITA** and **topic‑based** structure  
 - Optimized content for **SEO** and improved discoverability  
-- Created training for service writers on reorganizing and modernizing content  
+- Created and presented training for service writers on reorganizing and modernizing content 
+- Reviewed 70+ guides for adherence to AWS standards and style 
 - Built reusable templates and standardized paragraphs for consistency  
 - Trained LLMs and created documentation automation solutions using **Amazon Q CLI**  
 - Developed release‑note automation and task‑creation workflows based on **Figma patterns**
@@ -109,7 +108,7 @@ Microsoft Access, SQL, Oracle, Amazon RDS
 
 ## Licenses & Certifications
 
-- **Certified Scrum Master** — https://bcert.me/bc/html/show-badge.html?b=itcrpchv
+- **[Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=itcrpchv)**
 
 ---
 
