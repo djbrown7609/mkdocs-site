@@ -39,15 +39,35 @@ Microsoft Access, SQL, Oracle, Amazon RDS
 ### **Amazon Web Services — Senior Technical Writer**  
 *Red Bank NJ — November 2018 — October 2025*
 
-- Document Amazon Elastic Container Service and AWS networking services  
-- Write architectural overviews, configuration guides (CLI and console), and jobs‑to‑be‑done workflows  
-- Reorganized and rewrote ECS documentation using **DITA** and **topic‑based** structure  
-- Optimized content for **SEO** and improved discoverability  
-- Created and presented training for service writers on reorganizing and modernizing content 
-- Reviewed 70+ guides for adherence to AWS standards and style 
-- Built reusable templates and standardized paragraphs for consistency  
-- Trained LLMs and created documentation automation solutions using **Amazon Q CLI**  
-- Developed release‑note automation and task‑creation workflows based on **Figma patterns**
+- Documented Amazon Elastic Container Service, AWS networking services, and
+supporting infrastructure, producing architectural overviews, installation guides with
+diagrams, configuration instructions (CLI and console), troubleshooting, and
+user‑focused workflows. Ensured all content adhered to AWS security and governance
+standards and supported consistent, high‑quality customer experiences. Documentation
+included tested CLI and API examples and CloudFormation templates.  
+- Reorganized and rewrote Amazon Elastic Container Service documentation, optimizing
+content for SEO, aligning it with DITA standards, and converting it to a fully topic‑based
+structure. Developed and delivered training to help other service writers adopt the new
+approach. Created templates and reusable components to drive consistency and
+improve documentation quality across teams.
+- Developed documentation automation solutions using Amazon Q CLI, agents, and
+custom scripts, including automated release notes and security updates linked directly to
+underlying code. Streamlined task creation by implementing patterns derived from Figma
+mockups. Created and delivered training on applying prompt engineering and
+agent‑based workflows to documentation processes.
+- Trained writers on build processes, DITA, how to get information to write the
+documentation.
+- Documentation created using Oxygen using XML tagging, and AsciiDoc.
+- Diagrams were created in Microsoft Visio and drawio.
+- Supported the full SDLC by partnering with project managers, engineering, and support
+teams throughout requirements, design, development, testing, and launch. This
+collaboration ensured that documentation, software, and marketing materials remained
+fully aligned and up to date.
+- Coordinated multiple concurrent documentation initiatives, tracking scope, timelines,
+dependencies, and release milestones to keep all work aligned with project plans and
+delivery goals.
+- Reviewed 70+ guides for adherence to AWS standards and style. Received the "Just Do It" Award for this.
+- Created an AI solution using Amazon Q CLI with the Figma MCP server that uses a task pattern. The solution creates a page (XML or markddown) for a task based on Figma mockups.
 
 ---
 
